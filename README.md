@@ -1,6 +1,6 @@
-# FxxkZhiHuiShuMeow2.0
+# ZhiHuiShuMeow2.0
 智慧树/知到 智慧课程/翻转课自动刷课脚本
-# [fxxkZhiHuiShuMeow] Sonamiの智慧树智慧课程刷课脚本
+# [ZhiHuiShuMeow] Sonamiの智慧树智慧课程刷课脚本
 
 ## 前置依赖
 
@@ -34,7 +34,7 @@ python -m pip install -r script/requirements.txt
 
 **⚠WARNING 不要同时运行多个脚本 ⚠**
 
-## Fxxk智慧树喵
+## 智慧树喵
 
 之后，脚本便会**自动开始刷课**：
 
