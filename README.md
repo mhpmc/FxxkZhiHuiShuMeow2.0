@@ -1,7 +1,9 @@
 # ZhiHuiShuMeow2.0
 智慧树/知到 智慧课程/翻转课自动刷课脚本
+是
 # [ZhiHuiShuMeow] Sonamiの智慧树智慧课程刷课脚本
-
+是https://github.com/LemSonami/FxxkZhiHuiShuMeow的2.0版本 
+# 主要更新了对翻转课的依赖
 ## 前置依赖
 
 需要 Windows 和 Python 3.11+（安装 Python 时勾选 “Add Python to PATH”）。默认使用系统自带的 Edge，不需要额外下载浏览器。
