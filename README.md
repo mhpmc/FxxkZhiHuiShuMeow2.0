@@ -87,4 +87,4 @@ python script/run.py --no-flip
 python script/run.py --fresh-login
 ```
 脚本来源于suda，为vibe coding作品
-## 都给我去看超时空辉夜姬
+## 都给我去看超时空辉夜姬喵
