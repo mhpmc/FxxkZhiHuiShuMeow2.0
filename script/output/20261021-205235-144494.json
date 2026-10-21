@@ -1,0 +1,5169 @@
+{
+  "started_at": "2026-10-21T12:52:35.144526+00:00",
+  "courses": [],
+  "flip_courses": [
+    {
+      "course_id": "11542857",
+      "name": "辐射与健康（网络）",
+      "results": [
+        {
+          "before": {
+            "resource_id": "34998383",
+            "name": "01.从伦琴说起.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 3884.0,
+            "study_time": 3884.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34998383",
+            "name": "01.从伦琴说起.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 3884.0,
+            "study_time": 3884.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34998384",
+            "name": "电离辐射来源.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 3697.0,
+            "study_time": 3697.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34998384",
+            "name": "电离辐射来源.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 3697.0,
+            "study_time": 3697.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34998540",
+            "name": "人体组成与健康危害因素.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 6414.0,
+            "study_time": 6414.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34998540",
+            "name": "人体组成与健康危害因素.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 6414.0,
+            "study_time": 6414.0,
+            "progress": 100,
+            "completed": true
+          }
+        }
+      ],
+      "finished": true,
+      "final_resources": [
+        {
+          "resource_id": "34998383",
+          "name": "01.从伦琴说起.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 3884.0,
+          "study_time": 3884.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34998384",
+          "name": "电离辐射来源.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 3697.0,
+          "study_time": 3697.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34998540",
+          "name": "人体组成与健康危害因素.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 6414.0,
+          "study_time": 6414.0,
+          "progress": 100,
+          "completed": true
+        }
+      ],
+      "resource_count": 3,
+      "required_count": 3,
+      "completed_required_count": 3,
+      "skipped_task_count": 0,
+      "skipped_optional_count": 0
+    },
+    {
+      "course_id": "11547714",
+      "name": "国家安全教育",
+      "results": [
+        {
+          "before": {
+            "resource_id": "34994255",
+            "name": "1.1 总体国家安全观的创立发展.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 718.0,
+            "study_time": 718.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994255",
+            "name": "1.1 总体国家安全观的创立发展.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 718.0,
+            "study_time": 718.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994248",
+            "name": "1.2 总体国家安全观的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 745.0,
+            "study_time": 745.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994248",
+            "name": "1.2 总体国家安全观的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 745.0,
+            "study_time": 745.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994247",
+            "name": "1.3 总体国家安全观的特征意义.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 737.0,
+            "study_time": 737.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994247",
+            "name": "1.3 总体国家安全观的特征意义.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 737.0,
+            "study_time": 737.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "3986439",
+            "name": "第一章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "3986439",
+            "name": "第一章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994260",
+            "name": "2.1 坚持党对国家安全工作的绝对领导.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 701.0,
+            "study_time": 701.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994260",
+            "name": "2.1 坚持党对国家安全工作的绝对领导.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 701.0,
+            "study_time": 701.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994261",
+            "name": "2.2 坚持中国特色国家安全道路.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 769.0,
+            "study_time": 769.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994261",
+            "name": "2.2 坚持中国特色国家安全道路.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 769.0,
+            "study_time": 769.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994259",
+            "name": "2.3 推进国家安全体系和能力现代化.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 799.0,
+            "study_time": 799.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994259",
+            "name": "2.3 推进国家安全体系和能力现代化.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 799.0,
+            "study_time": 799.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "3986438",
+            "name": "第二章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "3986438",
+            "name": "第二章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994256",
+            "name": "3.1 统筹发展和安全的重大意义.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 781.0,
+            "study_time": 781.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994256",
+            "name": "3.1 统筹发展和安全的重大意义.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 781.0,
+            "study_time": 781.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994257",
+            "name": "3.2 统筹发展和安全的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 626.0,
+            "study_time": 626.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994257",
+            "name": "3.2 统筹发展和安全的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 626.0,
+            "study_time": 626.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994258",
+            "name": "3.3 更好统筹发展和安全的途径和方法.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 803.0,
+            "study_time": 803.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994258",
+            "name": "3.3 更好统筹发展和安全的途径和方法.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 803.0,
+            "study_time": 803.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "3986437",
+            "name": "第三章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "3986437",
+            "name": "第三章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994251",
+            "name": "4.1 坚持以人民安全为宗旨的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 637.0,
+            "study_time": 637.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994251",
+            "name": "4.1 坚持以人民安全为宗旨的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 637.0,
+            "study_time": 637.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994249",
+            "name": "4.2 新时代人民安全面临的风险挑战.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 528.0,
+            "study_time": 528.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994249",
+            "name": "4.2 新时代人民安全面临的风险挑战.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 528.0,
+            "study_time": 528.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994250",
+            "name": "4.3 新时代维护人民安全的途径和方法.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 574.0,
+            "study_time": 574.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994250",
+            "name": "4.3 新时代维护人民安全的途径和方法.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 574.0,
+            "study_time": 574.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "3986436",
+            "name": "第四章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "3986436",
+            "name": "第四章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994253",
+            "name": "5.1 坚持以政治安全为根本的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 535.0,
+            "study_time": 535.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994253",
+            "name": "5.1 坚持以政治安全为根本的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 535.0,
+            "study_time": 535.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994252",
+            "name": "5.2 新时代政治安全面临的风险挑战.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 501.0,
+            "study_time": 501.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994252",
+            "name": "5.2 新时代政治安全面临的风险挑战.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 501.0,
+            "study_time": 501.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994254",
+            "name": "5.3 新时代维护政治安全的途径和方法.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 565.0,
+            "study_time": 565.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994254",
+            "name": "5.3 新时代维护政治安全的途径和方法.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 565.0,
+            "study_time": 565.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "3986435",
+            "name": "第五章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "3986435",
+            "name": "第五章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994267",
+            "name": "6.1 坚持以经济安全为基础的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 658.0,
+            "study_time": 658.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994267",
+            "name": "6.1 坚持以经济安全为基础的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 658.0,
+            "study_time": 658.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994269",
+            "name": "6.2 新时代经济安全面临的风险挑战.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 784.0,
+            "study_time": 784.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994269",
+            "name": "6.2 新时代经济安全面临的风险挑战.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 784.0,
+            "study_time": 784.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994273",
+            "name": "6.3 新时代维护经济安全的途径和方法.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 837.0,
+            "study_time": 837.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994273",
+            "name": "6.3 新时代维护经济安全的途径和方法.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 837.0,
+            "study_time": 837.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "3986434",
+            "name": "第六章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "3986434",
+            "name": "第六章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994266",
+            "name": "7.1 坚持以军事、科技、文化、社会安全为保障的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 1020.0,
+            "study_time": 1020.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994266",
+            "name": "7.1 坚持以军事、科技、文化、社会安全为保障的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 1020.0,
+            "study_time": 1020.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994262",
+            "name": "7.2 新时代军事、科技、文化、社会安全面临的风险挑战.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 841.0,
+            "study_time": 841.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994262",
+            "name": "7.2 新时代军事、科技、文化、社会安全面临的风险挑战.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 841.0,
+            "study_time": 841.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994268",
+            "name": "7.3 新时代维护军事、科技、文化、社会安全的途径和方法.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 1087.0,
+            "study_time": 1087.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994268",
+            "name": "7.3 新时代维护军事、科技、文化、社会安全的途径和方法.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 1087.0,
+            "study_time": 1087.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "3986433",
+            "name": "第七章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "3986433",
+            "name": "第七章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994275",
+            "name": "8.1 坚持以促进国际安全为依托的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 561.0,
+            "study_time": 561.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994275",
+            "name": "8.1 坚持以促进国际安全为依托的科学内涵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 561.0,
+            "study_time": 561.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994276",
+            "name": "8.2 新时代国际安全面临的风险挑战.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 627.0,
+            "study_time": 627.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994276",
+            "name": "8.2 新时代国际安全面临的风险挑战.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 627.0,
+            "study_time": 627.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994278",
+            "name": "8.3 新时代维护国际安全的途径和方法.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 785.0,
+            "study_time": 785.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994278",
+            "name": "8.3 新时代维护国际安全的途径和方法.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 785.0,
+            "study_time": 785.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "3986432",
+            "name": "第八章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "3986432",
+            "name": "第八章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994274",
+            "name": "9.1 筑牢国土安全屏障.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 609.0,
+            "study_time": 609.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994274",
+            "name": "9.1 筑牢国土安全屏障.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 609.0,
+            "study_time": 609.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994272",
+            "name": "9.2 筑牢生态安全屏障.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 544.0,
+            "study_time": 544.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994272",
+            "name": "9.2 筑牢生态安全屏障.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 544.0,
+            "study_time": 544.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994270",
+            "name": "9.3 筑牢资源安全屏障.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 561.0,
+            "study_time": 561.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994270",
+            "name": "9.3 筑牢资源安全屏障.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 561.0,
+            "study_time": 561.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994277",
+            "name": "9.4 筑牢国家网络安全屏障.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 649.0,
+            "study_time": 649.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994277",
+            "name": "9.4 筑牢国家网络安全屏障.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 649.0,
+            "study_time": 649.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994271",
+            "name": "9.5 筑牢核安全屏障.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 548.0,
+            "study_time": 548.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994271",
+            "name": "9.5 筑牢核安全屏障.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 548.0,
+            "study_time": 548.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "3986431",
+            "name": "第九章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "3986431",
+            "name": "第九章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994264",
+            "name": "10.1 增强国家安全观意识，坚持国家利益至上.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 782.0,
+            "study_time": 782.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994264",
+            "name": "10.1 增强国家安全观意识，坚持国家利益至上.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 782.0,
+            "study_time": 782.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994263",
+            "name": "10.2 增强忧患意识，发扬斗争精神.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 584.0,
+            "study_time": 584.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994263",
+            "name": "10.2 增强忧患意识，发扬斗争精神.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 584.0,
+            "study_time": 584.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "34994265",
+            "name": "10.3 增强社会责任，形成维护国家安全合力.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 523.0,
+            "study_time": 523.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "34994265",
+            "name": "10.3 增强社会责任，形成维护国家安全合力.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 523.0,
+            "study_time": 523.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "3986430",
+            "name": "第十章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "3986430",
+            "name": "第十章作业",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        }
+      ],
+      "finished": true,
+      "final_resources": [
+        {
+          "resource_id": "34994255",
+          "name": "1.1 总体国家安全观的创立发展.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 718.0,
+          "study_time": 718.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994248",
+          "name": "1.2 总体国家安全观的科学内涵.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 745.0,
+          "study_time": 745.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994247",
+          "name": "1.3 总体国家安全观的特征意义.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 737.0,
+          "study_time": 737.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "3986439",
+          "name": "第一章作业",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 1.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994260",
+          "name": "2.1 坚持党对国家安全工作的绝对领导.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 701.0,
+          "study_time": 701.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994261",
+          "name": "2.2 坚持中国特色国家安全道路.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 769.0,
+          "study_time": 769.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994259",
+          "name": "2.3 推进国家安全体系和能力现代化.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 799.0,
+          "study_time": 799.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "3986438",
+          "name": "第二章作业",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "34994256",
+          "name": "3.1 统筹发展和安全的重大意义.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 781.0,
+          "study_time": 781.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994257",
+          "name": "3.2 统筹发展和安全的科学内涵.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 626.0,
+          "study_time": 626.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994258",
+          "name": "3.3 更好统筹发展和安全的途径和方法.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 803.0,
+          "study_time": 803.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "3986437",
+          "name": "第三章作业",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "34994251",
+          "name": "4.1 坚持以人民安全为宗旨的科学内涵.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 637.0,
+          "study_time": 637.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994249",
+          "name": "4.2 新时代人民安全面临的风险挑战.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 528.0,
+          "study_time": 528.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994250",
+          "name": "4.3 新时代维护人民安全的途径和方法.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 574.0,
+          "study_time": 574.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "3986436",
+          "name": "第四章作业",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "34994253",
+          "name": "5.1 坚持以政治安全为根本的科学内涵.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 535.0,
+          "study_time": 535.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994252",
+          "name": "5.2 新时代政治安全面临的风险挑战.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 501.0,
+          "study_time": 501.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994254",
+          "name": "5.3 新时代维护政治安全的途径和方法.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 565.0,
+          "study_time": 565.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "3986435",
+          "name": "第五章作业",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "34994267",
+          "name": "6.1 坚持以经济安全为基础的科学内涵.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 658.0,
+          "study_time": 658.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994269",
+          "name": "6.2 新时代经济安全面临的风险挑战.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 784.0,
+          "study_time": 784.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994273",
+          "name": "6.3 新时代维护经济安全的途径和方法.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 837.0,
+          "study_time": 837.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "3986434",
+          "name": "第六章作业",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "34994266",
+          "name": "7.1 坚持以军事、科技、文化、社会安全为保障的科学内涵.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 1020.0,
+          "study_time": 1020.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994262",
+          "name": "7.2 新时代军事、科技、文化、社会安全面临的风险挑战.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 841.0,
+          "study_time": 841.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994268",
+          "name": "7.3 新时代维护军事、科技、文化、社会安全的途径和方法.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 1087.0,
+          "study_time": 1087.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "3986433",
+          "name": "第七章作业",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "34994275",
+          "name": "8.1 坚持以促进国际安全为依托的科学内涵.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 561.0,
+          "study_time": 561.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994276",
+          "name": "8.2 新时代国际安全面临的风险挑战.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 627.0,
+          "study_time": 627.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994278",
+          "name": "8.3 新时代维护国际安全的途径和方法.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 785.0,
+          "study_time": 785.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "3986432",
+          "name": "第八章作业",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "34994274",
+          "name": "9.1 筑牢国土安全屏障.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 609.0,
+          "study_time": 609.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994272",
+          "name": "9.2 筑牢生态安全屏障.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 544.0,
+          "study_time": 544.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994270",
+          "name": "9.3 筑牢资源安全屏障.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 561.0,
+          "study_time": 561.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994277",
+          "name": "9.4 筑牢国家网络安全屏障.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 649.0,
+          "study_time": 649.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994271",
+          "name": "9.5 筑牢核安全屏障.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 548.0,
+          "study_time": 548.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "3986431",
+          "name": "第九章作业",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "34994264",
+          "name": "10.1 增强国家安全观意识，坚持国家利益至上.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 782.0,
+          "study_time": 782.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994263",
+          "name": "10.2 增强忧患意识，发扬斗争精神.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 584.0,
+          "study_time": 584.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "34994265",
+          "name": "10.3 增强社会责任，形成维护国家安全合力.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 523.0,
+          "study_time": 523.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "3986430",
+          "name": "第十章作业",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        }
+      ],
+      "resource_count": 42,
+      "required_count": 32,
+      "completed_required_count": 32,
+      "skipped_task_count": 10,
+      "skipped_optional_count": 0
+    },
+    {
+      "course_id": "11538447",
+      "name": "思想道德与法治",
+      "results": [
+        {
+          "before": {
+            "resource_id": "35053459",
+            "name": "苏州大学纳米科学技术学院、材料与化学化工学部思想道德与法治分众化教学实施方案撰稿人李艳秋.zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_archive",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053459",
+            "name": "苏州大学纳米科学技术学院、材料与化学化工学部思想道德与法治分众化教学实施方案撰稿人李艳秋.zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053460",
+            "name": "纺织学院思想道德与法治分众化实践教程（撰稿人：刘方涛）.docx",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053460",
+            "name": "纺织学院思想道德与法治分众化实践教程（撰稿人：刘方涛）.docx",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053461",
+            "name": "体育学院 思想道德与法治分众化实践教程（撰稿人顾宏松） .zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_archive",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053461",
+            "name": "体育学院 思想道德与法治分众化实践教程（撰稿人顾宏松） .zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053462",
+            "name": "王健法学院思想道德与法治分众化实践教程（撰稿人臧政）.docx",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053462",
+            "name": "王健法学院思想道德与法治分众化实践教程（撰稿人臧政）.docx",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053463",
+            "name": "苏州大学传媒学院、音乐学院、艺术学院+思想道德与法治分众化实践教程+沈颖尹.rar",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_archive",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053463",
+            "name": "苏州大学传媒学院、音乐学院、艺术学院+思想道德与法治分众化实践教程+沈颖尹.rar",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053464",
+            "name": "物理科学与工程学院、能源学院、电子信息学院《思想道德与法治》分众化实践教程（撰稿人：林慧平）.zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_archive",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053464",
+            "name": "物理科学与工程学院、能源学院、电子信息学院《思想道德与法治》分众化实践教程（撰稿人：林慧平）.zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053465",
+            "name": "光电科学与工程学院《思想道德与法治》分众化实践教程（撰稿人：林慧平）.zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_archive",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053465",
+            "name": "光电科学与工程学院《思想道德与法治》分众化实践教程（撰稿人：林慧平）.zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053466",
+            "name": "苏州大学未来科学与工程学院思想道德与法治分众化实践教程（撰稿人刘庆帅）.rar",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_archive",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053466",
+            "name": "苏州大学未来科学与工程学院思想道德与法治分众化实践教程（撰稿人刘庆帅）.rar",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053467",
+            "name": "教育学院、商学院、社会学院、外国语学院、文学院、政治与公共管理学院《思想道德与法治》分众化教学实施方案撰稿人张洋阳.zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_archive",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053467",
+            "name": "教育学院、商学院、社会学院、外国语学院、文学院、政治与公共管理学院《思想道德与法治》分众化教学实施方案撰稿人张洋阳.zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053468",
+            "name": "轨道交通学院、机电工程学院、沙钢钢铁学院、金螳螂建筑学院思想道德与法治分众化教学实施方案（撰稿人张超宇）.zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_archive",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053468",
+            "name": "轨道交通学院、机电工程学院、沙钢钢铁学院、金螳螂建筑学院思想道德与法治分众化教学实施方案（撰稿人张超宇）.zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053469",
+            "name": "苏州医学部《思想道德与法治》课程分众化教学实施方案（撰稿人谢贵兵）.rar",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_archive",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053469",
+            "name": "苏州医学部《思想道德与法治》课程分众化教学实施方案（撰稿人谢贵兵）.rar",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053470",
+            "name": "计算机科学与技术学院、软件学院和数学科学学院思想道德与法治分众化实践教程（撰稿人王晓蕾）.zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_archive",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053470",
+            "name": "计算机科学与技术学院、软件学院和数学科学学院思想道德与法治分众化实践教程（撰稿人王晓蕾）.zip",
+            "kind": "archive",
+            "data_type": "4",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053336",
+            "name": "超级演说家 刘媛媛《年轻人能为这个世界做什么》_标清.flv",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 290.0,
+            "study_time": 290.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053336",
+            "name": "超级演说家 刘媛媛《年轻人能为这个世界做什么》_标清.flv",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 290.0,
+            "study_time": 290.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053338",
+            "name": "人民日报微视频《中国进入新时代》_聚焦十九大_腾讯视频.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 181.0,
+            "study_time": 181.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053338",
+            "name": "人民日报微视频《中国进入新时代》_聚焦十九大_腾讯视频.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 181.0,
+            "study_time": 181.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053333",
+            "name": "香港警方称占中走向暴乱边缘 示威者利用儿童_标清.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 150.0,
+            "study_time": 150.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053333",
+            "name": "香港警方称占中走向暴乱边缘 示威者利用儿童_标清.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 150.0,
+            "study_time": 150.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053343",
+            "name": "领航.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 502.0,
+            "study_time": 502.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053343",
+            "name": "领航.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 502.0,
+            "study_time": 502.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053341",
+            "name": "《新时代》.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 316.0,
+            "study_time": 316.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053341",
+            "name": "《新时代》.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 316.0,
+            "study_time": 316.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053340",
+            "name": "《强国一代有我在》.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 249.0,
+            "study_time": 249.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053340",
+            "name": "《强国一代有我在》.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 249.0,
+            "study_time": 249.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053339",
+            "name": "叶诗文-我有欲望.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 208.0,
+            "study_time": 208.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053339",
+            "name": "叶诗文-我有欲望.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 208.0,
+            "study_time": 208.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053342",
+            "name": "校训是什么：苏州大学 养天地正气法古今完人 - 搜狐视频.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 627.0,
+            "study_time": 627.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053342",
+            "name": "校训是什么：苏州大学 养天地正气法古今完人 - 搜狐视频.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 627.0,
+            "study_time": 627.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053335",
+            "name": "习近平参加全国高校思想政治工作会议 21点新闻夜线 20161208_标清.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 184.0,
+            "study_time": 184.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053335",
+            "name": "习近平参加全国高校思想政治工作会议 21点新闻夜线 20161208_标清.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 184.0,
+            "study_time": 184.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053334",
+            "name": "“光明的故事”系列微视频_《要为人民做实事.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 67.0,
+            "study_time": 67.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053334",
+            "name": "“光明的故事”系列微视频_《要为人民做实事.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 67.0,
+            "study_time": 67.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053337",
+            "name": "新闻回顾：香港违法“占领中环”兴衰记-中新网.flv",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 150.0,
+            "study_time": 150.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053337",
+            "name": "新闻回顾：香港违法“占领中环”兴衰记-中新网.flv",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 150.0,
+            "study_time": 150.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053352",
+            "name": "2021版新教材《思德法》知识点框架体系图（8.31）.pdf",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053352",
+            "name": "2021版新教材《思德法》知识点框架体系图（8.31）.pdf",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053353",
+            "name": "21版思想道德与法治.pdf",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053353",
+            "name": "21版思想道德与法治.pdf",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053359",
+            "name": "2021-2022-2学期课内实践活动方案.docx",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053359",
+            "name": "2021-2022-2学期课内实践活动方案.docx",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053345",
+            "name": "最经典的吕秀才说死姬无命片段来了，果真知识改变命运啊！ _高清在线观看_百度视频.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 128.0,
+            "study_time": 128.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053345",
+            "name": "最经典的吕秀才说死姬无命片段来了，果真知识改变命运啊！ _高清在线观看_百度视频.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 128.0,
+            "study_time": 128.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053346",
+            "name": "台湾大众银行电视广告-梦骑士篇-原创视频-为什么活着.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 171.0,
+            "study_time": 171.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053346",
+            "name": "台湾大众银行电视广告-梦骑士篇-原创视频-为什么活着.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 171.0,
+            "study_time": 171.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053347",
+            "name": "艾力《成功，亮点人生》140530 超级演说家_高清.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 725.0,
+            "study_time": 725.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053347",
+            "name": "艾力《成功，亮点人生》140530 超级演说家_高清.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 725.0,
+            "study_time": 725.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053348",
+            "name": "心态与状态.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 1007.0,
+            "study_time": 1007.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053348",
+            "name": "心态与状态.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 1007.0,
+            "study_time": 1007.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053355",
+            "name": "1968-2016各国GDP排名变化.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 134.0,
+            "study_time": 134.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053355",
+            "name": "1968-2016各国GDP排名变化.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 134.0,
+            "study_time": 134.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053356",
+            "name": "工人5年前首提引力波 遭方舟子等嘉宾嘲讽_高清.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 815.0,
+            "study_time": 815.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053356",
+            "name": "工人5年前首提引力波 遭方舟子等嘉宾嘲讽_高清.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 815.0,
+            "study_time": 815.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053357",
+            "name": "王林（伪气功大师）_百度百科.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 596.0,
+            "study_time": 596.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053357",
+            "name": "王林（伪气功大师）_百度百科.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 596.0,
+            "study_time": 596.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053360",
+            "name": "科技制高点(2).mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 72.0,
+            "study_time": 72.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053360",
+            "name": "科技制高点(2).mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 72.0,
+            "study_time": 72.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053361",
+            "name": "钓鱼岛百年争端由来 120711 新视野 高清.avi",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 323.0,
+            "study_time": 323.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053361",
+            "name": "钓鱼岛百年争端由来 120711 新视野 高清.avi",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 323.0,
+            "study_time": 323.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053362",
+            "name": "孟晚舟深圳宝安机场演讲完整版-资讯-高清完整正版视频在线观看-优酷.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 125.0,
+            "study_time": 125.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053362",
+            "name": "孟晚舟深圳宝安机场演讲完整版-资讯-高清完整正版视频在线观看-优酷.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 125.0,
+            "study_time": 125.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053363",
+            "name": "专访 “阿尔斯通案”受害人皮耶鲁齐,国际,国际社会,好看视频.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 170.0,
+            "study_time": 170.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053363",
+            "name": "专访 “阿尔斯通案”受害人皮耶鲁齐,国际,国际社会,好看视频.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 170.0,
+            "study_time": 170.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053364",
+            "name": "中国精神——4分钟回顾那些给予我们力量的瞬间！.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 265.0,
+            "study_time": 265.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053364",
+            "name": "中国精神——4分钟回顾那些给予我们力量的瞬间！.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 265.0,
+            "study_time": 265.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053365",
+            "name": "多点文明，少点任性.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 455.0,
+            "study_time": 455.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053365",
+            "name": "多点文明，少点任性.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 455.0,
+            "study_time": 455.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053366",
+            "name": "老外教你十分钟看懂中国.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 618.0,
+            "study_time": 618.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053366",
+            "name": "老外教你十分钟看懂中国.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 618.0,
+            "study_time": 618.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053367",
+            "name": "中华文明08-星河灿烂_标清.flv",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 2747.0,
+            "study_time": 2747.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053367",
+            "name": "中华文明08-星河灿烂_标清.flv",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 2747.0,
+            "study_time": 2747.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053368",
+            "name": "国家安全普法宣传教育之《反间谍法》_高清.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 822.0,
+            "study_time": 822.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053368",
+            "name": "国家安全普法宣传教育之《反间谍法》_高清.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 822.0,
+            "study_time": 822.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053370",
+            "name": "钱学森——穿越时空的目光_标清.flv",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 694.0,
+            "study_time": 694.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053370",
+            "name": "钱学森——穿越时空的目光_标清.flv",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 694.0,
+            "study_time": 694.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053371",
+            "name": "习近平总书记对青年践行社会主义核心价值观的四点要求.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 135.0,
+            "study_time": 135.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053371",
+            "name": "习近平总书记对青年践行社会主义核心价值观的四点要求.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 135.0,
+            "study_time": 135.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053372",
+            "name": "《央视财经V讲堂》 20190916 小小“圆珠笔芯”几度被关注 说明了什么大道理？.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 172.0,
+            "study_time": 172.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053372",
+            "name": "《央视财经V讲堂》 20190916 小小“圆珠笔芯”几度被关注 说明了什么大道理？.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 172.0,
+            "study_time": 172.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053373",
+            "name": "习近平总书记为钟南山颁授共和国勋章，为张伯礼、张定宇、陈薇颁授国家荣誉称号奖章[高清版].mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 288.0,
+            "study_time": 288.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053373",
+            "name": "习近平总书记为钟南山颁授共和国勋章，为张伯礼、张定宇、陈薇颁授国家荣誉称号奖章[高清版].mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 288.0,
+            "study_time": 288.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053374",
+            "name": "社会主义核心价值观内容解读.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 309.0,
+            "study_time": 309.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053374",
+            "name": "社会主义核心价值观内容解读.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 309.0,
+            "study_time": 309.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053375",
+            "name": "当代愚公——三代人治沙造林将荒漠变绿洲,社会,正能量,好看视频.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 149.0,
+            "study_time": 149.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053375",
+            "name": "当代愚公——三代人治沙造林将荒漠变绿洲,社会,正能量,好看视频.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 149.0,
+            "study_time": 149.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053376",
+            "name": "大力培育和弘扬社会主义核心价值观.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 214.0,
+            "study_time": 214.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053376",
+            "name": "大力培育和弘扬社会主义核心价值观.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 214.0,
+            "study_time": 214.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053377",
+            "name": "习近平：坚守我们的核心价值观.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 329.0,
+            "study_time": 329.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053377",
+            "name": "习近平：坚守我们的核心价值观.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 329.0,
+            "study_time": 329.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053378",
+            "name": "《习近平：推动社会主义文化繁荣昌盛》.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 663.0,
+            "study_time": 663.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053378",
+            "name": "《习近平：推动社会主义文化繁荣昌盛》.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 663.0,
+            "study_time": 663.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053380",
+            "name": "西安奔驰维权女车主被曝陷“欠债门” 讨债人：她欠我们575万.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 65.0,
+            "study_time": 65.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053380",
+            "name": "西安奔驰维权女车主被曝陷“欠债门” 讨债人：她欠我们575万.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 65.0,
+            "study_time": 65.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053381",
+            "name": "中国为什会有相亲角.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 199.0,
+            "study_time": 199.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053381",
+            "name": "中国为什会有相亲角.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 199.0,
+            "study_time": 199.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053382",
+            "name": "就因为这么一个小动作，公务员考试“双第一”被取消了！_陈东_娄底市_面试_新浪网2.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 158.0,
+            "study_time": 158.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053382",
+            "name": "就因为这么一个小动作，公务员考试“双第一”被取消了！_陈东_娄底市_面试_新浪网2.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 158.0,
+            "study_time": 158.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053383",
+            "name": "女教授深入讲解男女关系.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 900.0,
+            "study_time": 900.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053383",
+            "name": "女教授深入讲解男女关系.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 900.0,
+            "study_time": 900.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053384",
+            "name": "雕刻火药的人.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 310.0,
+            "study_time": 310.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053384",
+            "name": "雕刻火药的人.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 310.0,
+            "study_time": 310.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053386",
+            "name": "卢永根.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 774.0,
+            "study_time": 774.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053386",
+            "name": "卢永根.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 774.0,
+            "study_time": 774.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053387",
+            "name": "职来职往苏大专场.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 4201.0,
+            "study_time": 4201.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053387",
+            "name": "职来职往苏大专场.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 4201.0,
+            "study_time": 4201.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053388",
+            "name": "66万买奔驰还没开就漏油，奔驰女车主哭诉维权始末_女硕士买奔驰被迫哭闹维权_腾讯视频.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 95.0,
+            "study_time": 95.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053388",
+            "name": "66万买奔驰还没开就漏油，奔驰女车主哭诉维权始末_女硕士买奔驰被迫哭闹维权_腾讯视频.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 95.0,
+            "study_time": 95.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053389",
+            "name": "2021年起这些行为都是犯罪！多学法律少吃亏，不要稀里糊涂坐牢！.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 56.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_optional",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053389",
+            "name": "2021年起这些行为都是犯罪！多学法律少吃亏，不要稀里糊涂坐牢！.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 56.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053390",
+            "name": "罗翔讲法-网络喷子怎么处罚.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 218.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_optional",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053390",
+            "name": "罗翔讲法-网络喷子怎么处罚.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 218.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053391",
+            "name": "《法治中国》第一集《奉法者强》微视频[高清版].mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 150.0,
+            "study_time": 150.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053391",
+            "name": "《法治中国》第一集《奉法者强》微视频[高清版].mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 150.0,
+            "study_time": 150.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053392",
+            "name": "《法治中国》第四集-精编版[流畅版].mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 236.0,
+            "study_time": 236.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053392",
+            "name": "《法治中国》第四集-精编版[流畅版].mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 236.0,
+            "study_time": 236.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053393",
+            "name": "微动漫  “十一个坚持”推进全面依法治国.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 206.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_optional",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053393",
+            "name": "微动漫  “十一个坚持”推进全面依法治国.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 206.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053394",
+            "name": "4分钟速览《法治中国》第六集.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 238.0,
+            "study_time": 238.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053394",
+            "name": "4分钟速览《法治中国》第六集.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 238.0,
+            "study_time": 238.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053395",
+            "name": "民法典》的诞生历程，历经多年波折，带来什么改变？.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 247.0,
+            "study_time": 247.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053395",
+            "name": "民法典》的诞生历程，历经多年波折，带来什么改变？.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 247.0,
+            "study_time": 247.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053396",
+            "name": "青年马克思：1840年的欧洲大陆，老百姓采集枯树枝，却被判为盗窃.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 189.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_optional",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053396",
+            "name": "青年马克思：1840年的欧洲大陆，老百姓采集枯树枝，却被判为盗窃.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 189.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053397",
+            "name": "《法治中国》第五集－精编版[1080P].flv",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 240.0,
+            "study_time": 240.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053397",
+            "name": "《法治中国》第五集－精编版[1080P].flv",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 240.0,
+            "study_time": 240.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053398",
+            "name": "宪法赋予公民的权利和义务.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 159.0,
+            "study_time": 159.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053398",
+            "name": "宪法赋予公民的权利和义务.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 159.0,
+            "study_time": 159.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053399",
+            "name": "民法总则 “好人法”条款鼓励做善事.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 157.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_optional",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053399",
+            "name": "民法总则 “好人法”条款鼓励做善事.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 157.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053400",
+            "name": "全面依法治国“新十六字方针” .mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 170.0,
+            "study_time": 170.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053400",
+            "name": "全面依法治国“新十六字方针” .mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 170.0,
+            "study_time": 170.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053402",
+            "name": "迟到的正义 依然无比珍贵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 198.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_optional",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053402",
+            "name": "迟到的正义 依然无比珍贵.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 198.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053403",
+            "name": "《民法总则》诞生 开启“民法典时代”.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 225.0,
+            "study_time": 225.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053403",
+            "name": "《民法总则》诞生 开启“民法典时代”.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 225.0,
+            "study_time": 225.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053404",
+            "name": "人民日报：五大基石构筑国家法治体系.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 230.0,
+            "study_time": 230.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053404",
+            "name": "人民日报：五大基石构筑国家法治体系.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 230.0,
+            "study_time": 230.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053405",
+            "name": "法治的力量.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 259.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_optional",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053405",
+            "name": "法治的力量.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 259.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053406",
+            "name": "直击复旦投毒案最终宣判.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 296.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_optional",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053406",
+            "name": "直击复旦投毒案最终宣判.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 296.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053407",
+            "name": "救命的假药.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 1638.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_optional",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053407",
+            "name": "救命的假药.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 1638.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053409",
+            "name": "河南大学生掏鸟被判10年半.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 894.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_optional",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053409",
+            "name": "河南大学生掏鸟被判10年半.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 894.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35053410",
+            "name": "新时代的宪法保障.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 886.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_optional",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35053410",
+            "name": "新时代的宪法保障.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 0,
+            "total_time": 886.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35273081",
+            "name": "《思想道德与法治》学生常见问题清单2026.3修订版.docx",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35273081",
+            "name": "《思想道德与法治》学生常见问题清单2026.3修订版.docx",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 1.0,
+            "progress": 100,
+            "completed": true
+          }
+        }
+      ],
+      "finished": true,
+      "final_resources": [
+        {
+          "resource_id": "35053459",
+          "name": "苏州大学纳米科学技术学院、材料与化学化工学部思想道德与法治分众化教学实施方案撰稿人李艳秋.zip",
+          "kind": "archive",
+          "data_type": "4",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053460",
+          "name": "纺织学院思想道德与法治分众化实践教程（撰稿人：刘方涛）.docx",
+          "kind": "document",
+          "data_type": "1",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 1.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053461",
+          "name": "体育学院 思想道德与法治分众化实践教程（撰稿人顾宏松） .zip",
+          "kind": "archive",
+          "data_type": "4",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053462",
+          "name": "王健法学院思想道德与法治分众化实践教程（撰稿人臧政）.docx",
+          "kind": "document",
+          "data_type": "1",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 1.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053463",
+          "name": "苏州大学传媒学院、音乐学院、艺术学院+思想道德与法治分众化实践教程+沈颖尹.rar",
+          "kind": "archive",
+          "data_type": "4",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053464",
+          "name": "物理科学与工程学院、能源学院、电子信息学院《思想道德与法治》分众化实践教程（撰稿人：林慧平）.zip",
+          "kind": "archive",
+          "data_type": "4",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053465",
+          "name": "光电科学与工程学院《思想道德与法治》分众化实践教程（撰稿人：林慧平）.zip",
+          "kind": "archive",
+          "data_type": "4",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053466",
+          "name": "苏州大学未来科学与工程学院思想道德与法治分众化实践教程（撰稿人刘庆帅）.rar",
+          "kind": "archive",
+          "data_type": "4",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053467",
+          "name": "教育学院、商学院、社会学院、外国语学院、文学院、政治与公共管理学院《思想道德与法治》分众化教学实施方案撰稿人张洋阳.zip",
+          "kind": "archive",
+          "data_type": "4",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053468",
+          "name": "轨道交通学院、机电工程学院、沙钢钢铁学院、金螳螂建筑学院思想道德与法治分众化教学实施方案（撰稿人张超宇）.zip",
+          "kind": "archive",
+          "data_type": "4",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053469",
+          "name": "苏州医学部《思想道德与法治》课程分众化教学实施方案（撰稿人谢贵兵）.rar",
+          "kind": "archive",
+          "data_type": "4",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053470",
+          "name": "计算机科学与技术学院、软件学院和数学科学学院思想道德与法治分众化实践教程（撰稿人王晓蕾）.zip",
+          "kind": "archive",
+          "data_type": "4",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053336",
+          "name": "超级演说家 刘媛媛《年轻人能为这个世界做什么》_标清.flv",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 290.0,
+          "study_time": 290.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053338",
+          "name": "人民日报微视频《中国进入新时代》_聚焦十九大_腾讯视频.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 181.0,
+          "study_time": 181.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053333",
+          "name": "香港警方称占中走向暴乱边缘 示威者利用儿童_标清.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 150.0,
+          "study_time": 150.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053343",
+          "name": "领航.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 502.0,
+          "study_time": 502.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053341",
+          "name": "《新时代》.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 316.0,
+          "study_time": 316.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053340",
+          "name": "《强国一代有我在》.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 249.0,
+          "study_time": 249.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053339",
+          "name": "叶诗文-我有欲望.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 208.0,
+          "study_time": 208.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053342",
+          "name": "校训是什么：苏州大学 养天地正气法古今完人 - 搜狐视频.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 627.0,
+          "study_time": 627.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053335",
+          "name": "习近平参加全国高校思想政治工作会议 21点新闻夜线 20161208_标清.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 184.0,
+          "study_time": 184.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053334",
+          "name": "“光明的故事”系列微视频_《要为人民做实事.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 67.0,
+          "study_time": 67.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053337",
+          "name": "新闻回顾：香港违法“占领中环”兴衰记-中新网.flv",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 150.0,
+          "study_time": 150.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053352",
+          "name": "2021版新教材《思德法》知识点框架体系图（8.31）.pdf",
+          "kind": "document",
+          "data_type": "1",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 1.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053353",
+          "name": "21版思想道德与法治.pdf",
+          "kind": "document",
+          "data_type": "1",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 1.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053359",
+          "name": "2021-2022-2学期课内实践活动方案.docx",
+          "kind": "document",
+          "data_type": "1",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 1.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053345",
+          "name": "最经典的吕秀才说死姬无命片段来了，果真知识改变命运啊！ _高清在线观看_百度视频.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 128.0,
+          "study_time": 128.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053346",
+          "name": "台湾大众银行电视广告-梦骑士篇-原创视频-为什么活着.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 171.0,
+          "study_time": 171.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053347",
+          "name": "艾力《成功，亮点人生》140530 超级演说家_高清.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 725.0,
+          "study_time": 725.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053348",
+          "name": "心态与状态.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 1007.0,
+          "study_time": 1007.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053355",
+          "name": "1968-2016各国GDP排名变化.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 134.0,
+          "study_time": 134.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053356",
+          "name": "工人5年前首提引力波 遭方舟子等嘉宾嘲讽_高清.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 815.0,
+          "study_time": 815.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053357",
+          "name": "王林（伪气功大师）_百度百科.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 596.0,
+          "study_time": 596.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053360",
+          "name": "科技制高点(2).mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 72.0,
+          "study_time": 72.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053361",
+          "name": "钓鱼岛百年争端由来 120711 新视野 高清.avi",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 323.0,
+          "study_time": 323.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053362",
+          "name": "孟晚舟深圳宝安机场演讲完整版-资讯-高清完整正版视频在线观看-优酷.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 125.0,
+          "study_time": 125.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053363",
+          "name": "专访 “阿尔斯通案”受害人皮耶鲁齐,国际,国际社会,好看视频.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 170.0,
+          "study_time": 170.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053364",
+          "name": "中国精神——4分钟回顾那些给予我们力量的瞬间！.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 265.0,
+          "study_time": 265.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053365",
+          "name": "多点文明，少点任性.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 455.0,
+          "study_time": 455.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053366",
+          "name": "老外教你十分钟看懂中国.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 618.0,
+          "study_time": 618.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053367",
+          "name": "中华文明08-星河灿烂_标清.flv",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 2747.0,
+          "study_time": 2747.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053368",
+          "name": "国家安全普法宣传教育之《反间谍法》_高清.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 822.0,
+          "study_time": 822.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053370",
+          "name": "钱学森——穿越时空的目光_标清.flv",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 694.0,
+          "study_time": 694.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053371",
+          "name": "习近平总书记对青年践行社会主义核心价值观的四点要求.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 135.0,
+          "study_time": 135.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053372",
+          "name": "《央视财经V讲堂》 20190916 小小“圆珠笔芯”几度被关注 说明了什么大道理？.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 172.0,
+          "study_time": 172.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053373",
+          "name": "习近平总书记为钟南山颁授共和国勋章，为张伯礼、张定宇、陈薇颁授国家荣誉称号奖章[高清版].mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 288.0,
+          "study_time": 288.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053374",
+          "name": "社会主义核心价值观内容解读.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 309.0,
+          "study_time": 309.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053375",
+          "name": "当代愚公——三代人治沙造林将荒漠变绿洲,社会,正能量,好看视频.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 149.0,
+          "study_time": 149.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053376",
+          "name": "大力培育和弘扬社会主义核心价值观.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 214.0,
+          "study_time": 214.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053377",
+          "name": "习近平：坚守我们的核心价值观.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 329.0,
+          "study_time": 329.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053378",
+          "name": "《习近平：推动社会主义文化繁荣昌盛》.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 663.0,
+          "study_time": 663.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053380",
+          "name": "西安奔驰维权女车主被曝陷“欠债门” 讨债人：她欠我们575万.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 65.0,
+          "study_time": 65.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053381",
+          "name": "中国为什会有相亲角.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 199.0,
+          "study_time": 199.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053382",
+          "name": "就因为这么一个小动作，公务员考试“双第一”被取消了！_陈东_娄底市_面试_新浪网2.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 158.0,
+          "study_time": 158.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053383",
+          "name": "女教授深入讲解男女关系.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 900.0,
+          "study_time": 900.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053384",
+          "name": "雕刻火药的人.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 310.0,
+          "study_time": 310.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053386",
+          "name": "卢永根.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 774.0,
+          "study_time": 774.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053387",
+          "name": "职来职往苏大专场.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 4201.0,
+          "study_time": 4201.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053388",
+          "name": "66万买奔驰还没开就漏油，奔驰女车主哭诉维权始末_女硕士买奔驰被迫哭闹维权_腾讯视频.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 95.0,
+          "study_time": 95.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053389",
+          "name": "2021年起这些行为都是犯罪！多学法律少吃亏，不要稀里糊涂坐牢！.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 0,
+          "total_time": 56.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053390",
+          "name": "罗翔讲法-网络喷子怎么处罚.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 0,
+          "total_time": 218.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053391",
+          "name": "《法治中国》第一集《奉法者强》微视频[高清版].mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 150.0,
+          "study_time": 150.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053392",
+          "name": "《法治中国》第四集-精编版[流畅版].mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 236.0,
+          "study_time": 236.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053393",
+          "name": "微动漫  “十一个坚持”推进全面依法治国.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 0,
+          "total_time": 206.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053394",
+          "name": "4分钟速览《法治中国》第六集.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 238.0,
+          "study_time": 238.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053395",
+          "name": "民法典》的诞生历程，历经多年波折，带来什么改变？.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 247.0,
+          "study_time": 247.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053396",
+          "name": "青年马克思：1840年的欧洲大陆，老百姓采集枯树枝，却被判为盗窃.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 0,
+          "total_time": 189.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053397",
+          "name": "《法治中国》第五集－精编版[1080P].flv",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 240.0,
+          "study_time": 240.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053398",
+          "name": "宪法赋予公民的权利和义务.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 159.0,
+          "study_time": 159.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053399",
+          "name": "民法总则 “好人法”条款鼓励做善事.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 0,
+          "total_time": 157.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053400",
+          "name": "全面依法治国“新十六字方针” .mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 170.0,
+          "study_time": 170.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053402",
+          "name": "迟到的正义 依然无比珍贵.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 0,
+          "total_time": 198.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053403",
+          "name": "《民法总则》诞生 开启“民法典时代”.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 225.0,
+          "study_time": 225.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053404",
+          "name": "人民日报：五大基石构筑国家法治体系.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 230.0,
+          "study_time": 230.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35053405",
+          "name": "法治的力量.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 0,
+          "total_time": 259.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053406",
+          "name": "直击复旦投毒案最终宣判.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 0,
+          "total_time": 296.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053407",
+          "name": "救命的假药.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 0,
+          "total_time": 1638.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053409",
+          "name": "河南大学生掏鸟被判10年半.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 0,
+          "total_time": 894.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35053410",
+          "name": "新时代的宪法保障.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 0,
+          "total_time": 886.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35273081",
+          "name": "《思想道德与法治》学生常见问题清单2026.3修订版.docx",
+          "kind": "document",
+          "data_type": "1",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 1.0,
+          "progress": 100,
+          "completed": true
+        }
+      ],
+      "resource_count": 80,
+      "required_count": 69,
+      "completed_required_count": 59,
+      "skipped_task_count": 0,
+      "skipped_optional_count": 11
+    },
+    {
+      "course_id": "11549325",
+      "name": "形势与政策（一）",
+      "results": [
+        {
+          "before": {
+            "resource_id": "35240592",
+            "name": "2022级及以后各年级形势与政策课程学习指南2026版.pptx",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 2.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35240592",
+            "name": "2022级及以后各年级形势与政策课程学习指南2026版.pptx",
+            "kind": "document",
+            "data_type": "1",
+            "must_learn": 1,
+            "total_time": 1.0,
+            "study_time": 2.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35240593",
+            "name": "1.1 孔川-正确理解和把握习近平党建思想.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 955.0,
+            "study_time": 955.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35240593",
+            "name": "1.1 孔川-正确理解和把握习近平党建思想.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 955.0,
+            "study_time": 955.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35240594",
+            "name": "1.2 顾梦婷 繁荣互联网条件下新大众文艺.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 950.0,
+            "study_time": 950.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35240594",
+            "name": "1.2 顾梦婷 繁荣互联网条件下新大众文艺.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 950.0,
+            "study_time": 950.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "4023206",
+            "name": "第一章章测试",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "4023206",
+            "name": "第一章章测试",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35240595",
+            "name": "2.1 唐强奎-科学认识当前经济热点问题.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 915.0,
+            "study_time": 915.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35240595",
+            "name": "2.1 唐强奎-科学认识当前经济热点问题.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 915.0,
+            "study_time": 915.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35240596",
+            "name": "2.2 全面推进美丽中国建设-于佳.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 944.0,
+            "study_time": 944.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35240596",
+            "name": "2.2 全面推进美丽中国建设-于佳.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 944.0,
+            "study_time": 944.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "4023209",
+            "name": "第二章章测试",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "4023209",
+            "name": "第二章章测试",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35240597",
+            "name": "3.1 加强网络文明建设 营造风清气正的网络空间-陈燕.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 955.0,
+            "study_time": 955.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35240597",
+            "name": "3.1 加强网络文明建设 营造风清气正的网络空间-陈燕.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 955.0,
+            "study_time": 955.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35240598",
+            "name": "3.2 反对“台独”分裂-昝金生.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 871.0,
+            "study_time": 871.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35240598",
+            "name": "3.2 反对“台独”分裂-昝金生.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 871.0,
+            "study_time": 871.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "4023210",
+            "name": "第三章章测试",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "4023210",
+            "name": "第三章章测试",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35240599",
+            "name": "4.1 构建更加公正合理的全球治理体系-李瑾.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 1117.0,
+            "study_time": 1117.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35240599",
+            "name": "4.1 构建更加公正合理的全球治理体系-李瑾.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 1117.0,
+            "study_time": 1117.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "35240601",
+            "name": "4.2 张建晓_《美国霸权逻辑的新表现及其世界影响》.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 979.0,
+            "study_time": 979.0,
+            "progress": 100,
+            "completed": true
+          },
+          "outcome": "already_completed",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "35240601",
+            "name": "4.2 张建晓_《美国霸权逻辑的新表现及其世界影响》.mp4",
+            "kind": "video",
+            "data_type": "3",
+            "must_learn": 1,
+            "total_time": 979.0,
+            "study_time": 979.0,
+            "progress": 100,
+            "completed": true
+          }
+        },
+        {
+          "before": {
+            "resource_id": "4023212",
+            "name": "第四章章测试",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          },
+          "outcome": "skipped_task",
+          "checkpoints": [],
+          "after": {
+            "resource_id": "4023212",
+            "name": "第四章章测试",
+            "kind": "task",
+            "data_type": "",
+            "must_learn": null,
+            "total_time": 1.0,
+            "study_time": 0,
+            "progress": 0,
+            "completed": false
+          }
+        }
+      ],
+      "finished": true,
+      "final_resources": [
+        {
+          "resource_id": "35240592",
+          "name": "2022级及以后各年级形势与政策课程学习指南2026版.pptx",
+          "kind": "document",
+          "data_type": "1",
+          "must_learn": 1,
+          "total_time": 1.0,
+          "study_time": 2.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35240593",
+          "name": "1.1 孔川-正确理解和把握习近平党建思想.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 955.0,
+          "study_time": 955.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35240594",
+          "name": "1.2 顾梦婷 繁荣互联网条件下新大众文艺.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 950.0,
+          "study_time": 950.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "4023206",
+          "name": "第一章章测试",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35240595",
+          "name": "2.1 唐强奎-科学认识当前经济热点问题.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 915.0,
+          "study_time": 915.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35240596",
+          "name": "2.2 全面推进美丽中国建设-于佳.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 944.0,
+          "study_time": 944.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "4023209",
+          "name": "第二章章测试",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35240597",
+          "name": "3.1 加强网络文明建设 营造风清气正的网络空间-陈燕.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 955.0,
+          "study_time": 955.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35240598",
+          "name": "3.2 反对“台独”分裂-昝金生.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 871.0,
+          "study_time": 871.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "4023210",
+          "name": "第三章章测试",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        },
+        {
+          "resource_id": "35240599",
+          "name": "4.1 构建更加公正合理的全球治理体系-李瑾.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 1117.0,
+          "study_time": 1117.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "35240601",
+          "name": "4.2 张建晓_《美国霸权逻辑的新表现及其世界影响》.mp4",
+          "kind": "video",
+          "data_type": "3",
+          "must_learn": 1,
+          "total_time": 979.0,
+          "study_time": 979.0,
+          "progress": 100,
+          "completed": true
+        },
+        {
+          "resource_id": "4023212",
+          "name": "第四章章测试",
+          "kind": "task",
+          "data_type": "",
+          "must_learn": null,
+          "total_time": 1.0,
+          "study_time": 0,
+          "progress": 0,
+          "completed": false
+        }
+      ],
+      "resource_count": 13,
+      "required_count": 9,
+      "completed_required_count": 9,
+      "skipped_task_count": 4,
+      "skipped_optional_count": 0
+    }
+  ],
+  "finished": true
+}
