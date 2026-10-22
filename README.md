@@ -2,7 +2,7 @@
 智慧树/知到 智慧课程/翻转课自动刷课脚本
 是
 # [ZhiHuiShuMeow] Sonamiの智慧树智慧课程刷课脚本
-是https://github.com/LemSonami/FxxkZhiHuiShuMeow的2.0版本 
+是https://github.com/LemSonami/FxxkZhiHuiShuMeow 的2.0版本
 # 主要更新了对翻转课的依赖
 ## 前置依赖
 
