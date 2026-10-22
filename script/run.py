@@ -530,6 +530,11 @@ def run(args):
                 page.goto(f'https://{HOST}/mySpace', wait_until='domcontentloaded', timeout=60000)
                 courses = wait_login(context, client, args.login_timeout)
                 context.storage_state(path=str(state_file))
+                if args.no_smart:
+                    courses = []
+                elif args.course:
+                    wanted = set(args.course)
+                    courses = [c for c in courses if c['course_id'] in wanted]
                 report['courses'] = courses
                 save()
                 print(f'喵~(๑＞ڡ＜)☆ 找到 {len(courses)} 门智慧课程啦！', flush=True)
@@ -686,11 +691,16 @@ def main():
     parser.add_argument('--no-flip', action='store_true', help='跳过翻转课，只刷智慧课程喵')
     parser.add_argument('--flip-course', action='append', default=[], metavar='ID或URL',
                         help='只处理指定翻转课（课程 ID 或 studyResource 网址），可重复喵')
+    parser.add_argument('--no-smart', action='store_true', help='跳过智慧课程，只处理翻转课喵')
+    parser.add_argument('--course', action='append', default=[], metavar='ID',
+                        help='只处理指定智慧课程 ID，可重复喵')
     args = parser.parse_args()
     if not math.isfinite(args.interval) or not 0.5 <= args.interval <= 60:
         parser.error('喵?！(>﹏<) --interval 必须为 0.5 到 60 秒喵')
     if not 30 <= args.login_timeout <= 7200:
         parser.error('喵?！(>﹏<) --login-timeout 必须为 30 到 7200 秒喵')
+    if any(not value.isdigit() for value in args.course):
+        parser.error('喵?！(>﹏<) --course 需要纯数字的智慧课程 ID 喵')
     try:
         args.flip_course = flip_course_ids(args.flip_course)
     except ValueError:
