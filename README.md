@@ -5,7 +5,7 @@
 是 [ZhiHuiShuMeow] Sonamiの智慧树智慧课程刷课脚本
 是https://github.com/LemSonami/FxxkZhiHuiShuMeow 的 2.0 版本
 主要更新了对翻转课的依赖
-#目前有更新了基于前端的对共享课的支持的4.0版本https://github.com/Liang1jp/zhihuishu4.0
+# 目前有更新了基于前端的对共享课的支持的4.0版本https://github.com/Liang1jp/zhihuishu4.0
 
 ## 前置依赖
 
