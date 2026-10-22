@@ -44,9 +44,12 @@ if errorlevel 1 (
     echo 喵~ 依赖装好啦，开始刷课喵～
 )
 
-rem Default channel is the system Edge, which ships with Windows; no browser
-rem download is needed. For Chrome use --channel chrome.
-%PYRUN% "script\run.py" %*
+rem No arguments: open the Tkinter UI. With arguments: keep the old CLI.
+if "%~1"=="" (
+    %PYRUN% "script\ui.py"
+) else (
+    %PYRUN% "script\run.py" %*
+)
 set "CODE=%ERRORLEVEL%"
 if not "%CODE%"=="0" (
     echo.
