@@ -1,8 +1,9 @@
-# ZhiHuiShuMeow2.0
+# FxxkZhiHuiShuMeow2.0
 
 智慧树/知到の智慧课程/翻转课自动刷课脚本
 
 #### 主要更新了对翻转课的依赖，有了ui操作，支持输入api让ai帮忙完成作业/测试（建议自己完成避免忽略大作业）
+#### 下载release里的压缩包解压后直接启动run.bat即可
 
 ### 是https://github.com/LemSonami/FxxkZhiHuiShuMeow 的 2.0 版本
 ### 目前有更新了基于前端的对共享课的支持的4.0版本https://github.com/Liang1jp/zhihuishu4.0
